@@ -84,4 +84,4 @@ a-z this is for and lowercase letter a-z
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+https://github.com/chubbchris/
